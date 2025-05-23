@@ -1,12 +1,39 @@
-.cabecalho{
-    background-color:rgb(255, 47, 47);
- display: flex; 
- justify-content: space-around;
-padding: 240px 0;
-font-size: 50px;
+*{margin:0;
+padding:0;
 }
-.cabecalholistaitem{
+
+
+.cabecalho{
+    background-color:rgb(180, 94, 94);
+    color:rgb(255, 0, 0);
+    display: flex; 
+    justify-content: space-between;
+    padding: 3px 0;
+    font-size: 30px;
+}
+
+.cabecalholistaItem{
     display:inline-block;
-    margin:0  120px;
-padding:78px 0;
+    margin:0  20px;
+    padding:5px 10;
+}
+.sobreImagem{
+           width:
+}
+
+.sobre{
+        background-image: linear gradient(#FFFFFF. #FFFFFF);
+        color: orange;
+        display: flex;
+        justify-content: center;
+       align-items: center;
+       padding: 370px 0;
+}
+
+.sobreConteudo{
+        width:
+}
+
+.sobreTitulo{
+         padding: 100px 50px;
 }
