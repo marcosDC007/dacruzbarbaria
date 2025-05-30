@@ -4,36 +4,36 @@ padding:0;
 
 
 .cabecalho{
-    background-color:rgb(180, 94, 94);
-    color:rgb(255, 0, 0);
+    background-color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
     display: flex; 
     justify-content: space-between;
-    padding: 3px 0;
-    font-size: 30px;
+    padding: 90px 0;
+    font-size: 20px;
 }
-
 .cabecalholistaItem{
     display:inline-block;
-    margin:0  20px;
+    margin:0  50px;
     padding:5px 10;
 }
 .sobreImagem{
-           width:
+           width:50%
 }
 
 .sobre{
-        background-image: linear gradient(#FFFFFF. #FFFFFF);
-        color: orange;
+        background-image: linear-gradient(#000000, #777171);
+        color: rgb(255, 255, 255);
         display: flex;
         justify-content: center;
        align-items: center;
-       padding: 370px 0;
+       padding: 10px 0px;
+
 }
 
 .sobreConteudo{
-        width:
+        width:50%
 }
 
 .sobreTitulo{
-         padding: 100px 50px;
+         padding: 10px 0px;
 }
